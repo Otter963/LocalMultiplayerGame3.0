@@ -4,6 +4,8 @@ using System.Collections.Generic;
 
 public class CameraFollow : MonoBehaviour
 {
+    //https://discussions.unity.com/t/make-a-camera-to-follow-two-players/131896
+
     public static CameraFollow cFollow;
 
     public float dampTime = 0.15f;
